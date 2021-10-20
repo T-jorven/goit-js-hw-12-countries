@@ -1,4 +1,5 @@
 import { baseCountryUrl } from './index.js'
+import { REFS } from './index.js';
 /* 
 const filterRequest = '?fields=name;capital;population;languages;flag'
 
@@ -15,13 +16,13 @@ const fetchCountries = searchQuery => {
 
 export default fetchCountries */
 
-
-const inputField = document.querySelector(".js-input-search");
+/* 
+const inputField = document.querySelector(".js-input-search"); */
 
 
 //getting input value
 
-inputField.addEventListener('input', onInputChange);
+REFS.INPUT_SEARCH.addEventListener('input', onInputChange);
 
 function onInputChange(event) {
     

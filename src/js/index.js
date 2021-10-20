@@ -9,4 +9,11 @@ export const REFS = {
   COUNTRY_WRAPPER: document.querySelector('.js-country-wrapper'),
 }
 
+REFS.INPUT_SEARCH.addEventListener('input', appendCountryMarkup);
 
+
+
+function appendCountryMarkup(country) {
+  
+  REFS.COUNTRY_WRAPPER.insertAdjacentHTML('beforeend', country-card)
+}
