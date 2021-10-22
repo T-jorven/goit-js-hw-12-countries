@@ -16,7 +16,7 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://t-jorven.github.io/goit-js-hw-12-countries//issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
