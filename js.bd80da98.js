@@ -26,4 +26,4 @@ var t,e=arguments[3];!function(e,n){"object"==typeof exports&&"undefined"!=typeo
 },{"./refs.js":"VyiV","lodash.debounce":"PZFh","./fetchCountries":"irxn","../partials/country-card.hbs":"YuZ1","../partials/country-list.hbs":"NxPA","./notification":"SiMs"}],"QvaY":[function(require,module,exports) {
 "use strict";require("./addMarkup.js"),require("../css/main.css");
 },{"./addMarkup.js":"FPAm","../css/main.css":"AjW3"}]},{},["QvaY"], null)
-//# sourceMappingURL=/parcel-project-template/js.bd80da98.js.map
+//# sourceMappingURL=/goit-js-hw-12-countries/js.bd80da98.js.map
