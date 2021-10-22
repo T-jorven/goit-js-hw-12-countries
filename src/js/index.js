@@ -1,5 +1,4 @@
-import '../js/addMarkup';
-import '../js/targetCountry'
+import './addMarkup.js';
 import '../css/main.css';
 
 
